@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bach", "src\Bach\Bach.csproj", "{0634DA1C-9915-413A-BB12-B85F7B8733C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bach.Sample", "sample\Bach.Sample\Bach.Sample.csproj", "{9E2B060B-4F30-4AA7-81B2-CDA697B13324}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bach.Test", "tests\Bach.Test\Bach.Test.csproj", "{5AE0F90B-0AD4-442C-9306-94609CBD3E72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0634DA1C-9915-413A-BB12-B85F7B8733C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0634DA1C-9915-413A-BB12-B85F7B8733C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0634DA1C-9915-413A-BB12-B85F7B8733C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0634DA1C-9915-413A-BB12-B85F7B8733C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E2B060B-4F30-4AA7-81B2-CDA697B13324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E2B060B-4F30-4AA7-81B2-CDA697B13324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E2B060B-4F30-4AA7-81B2-CDA697B13324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E2B060B-4F30-4AA7-81B2-CDA697B13324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AE0F90B-0AD4-442C-9306-94609CBD3E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AE0F90B-0AD4-442C-9306-94609CBD3E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AE0F90B-0AD4-442C-9306-94609CBD3E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AE0F90B-0AD4-442C-9306-94609CBD3E72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
